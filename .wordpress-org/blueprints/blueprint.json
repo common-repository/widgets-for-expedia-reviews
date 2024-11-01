@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=widgets-for-expedia-reviews%2Fsettings.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-expedia-preview": "1"
+            }
+        }
+    ]
+}
